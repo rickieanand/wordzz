@@ -1,0 +1,27 @@
+
+.block {
+    width: 30px;
+    font-size: 22px;
+    line-height: 26px;
+    display: inline-grid;
+}
+input { 
+    text-align: center;
+    color: aqua;
+    background-color: #282c34;
+    width: 30px;
+    height: 30px;
+    font-size: 22px;
+    line-height: 26px;
+    display: inline-block;
+}
+.space {
+    background-color: #383e49;
+    color: white;
+}
+.number {
+    font-size: 12px;
+    line-height: 14px;
+    height: 16px;
+    width: 16px;
+}
